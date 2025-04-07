@@ -18,3 +18,5 @@ gunicorn>=21.2.0
 template-render >= 0.1.0
 streamlit>=1.42.1
 kagglehub==0.3.10
+regex>=2023.12.25
+wordcloud==1.9.3
